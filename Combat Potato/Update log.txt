@@ -1,0 +1,36 @@
+date : version - info
+
+29/11: 6.0    - it's now tecnicaly playable...
+30/11: 6.1    - added multi-fase mecanic.
+       6.2    - added option to save & load.
+       6.3    - Mimics.
+2018;
+
+25/02: 6.4.1  - run fail chance, fixed the 'broken load game' thing and edited the boss fight so you can't run from it.
+26/02: 6.4.2  - turn based combat(weak), option to run during combat. Boss combat is still the same.
+27/02: 6.4.2b - changed 'nothing' to 'bag' on combat & rewrote the beginning text.
+12/04: 6.4.2c - getchar on menu.
+16/04: 6.5.0  - iron out some unused variables, end single file coding(not), new icon for the shortcut.
+	      - bugs found: second floor not scaling, way too long wait for boss, ... 
+10/08: 6.5.1  - fixed the scaling floor, cut the size of the map to 5x10 and halved the necessarie steps to the boss(25 now).
+	      - needs balance.
+17/08: 	      - bugs: running option at chest event.(maybe add a trap option)
+29/12: 6.5.2  - balance patch, boss is not imortal anymore, veterans give 2x exp now.
+	      - removed "Jobs", added Strong attack option on combat.
+	      - edited some events to be more interesting, fixed running from mimics.
+	      - fixed some bugs, made new ones. added new events.
+2019;
+
+16/11: 6.5.2 - no changes but found bugs and ideas: 
+		- life not regenarating on boss 
+		- boss fight entirely, should be changed to the new fighting style
+		- add damage tool-tip on atack options during fight
+29/12: 6.5.3 - added tool-tip on atack options.
+30/12: 6.6.0 - added defence stat.
+	     - fixed ALL warnings, like really all.
+       6.6.1 - added level up info, changed max xp change rate
+	     - fixed healing before boss and typo
+2020;
+      
+25/07: 6.6.2 - next level @ position bug fixed.
+	     - Decided as final, at least for now.

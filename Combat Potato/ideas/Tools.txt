@@ -1,0 +1,13 @@
+#include <stdlib.h>
+
+#ifdef _WIN32
+#define clearScreen() system("cls")
+#else
+#define clearScreen() system("clear")
+#endif
+
+
+// clear the terminal. Work on win, mac and linux.
+void clrScr(){
+	clearScreen();
+}

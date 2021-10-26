@@ -1,0 +1,15 @@
+class evolution : 
+	swordman -> warrior -> great warrior -> ....
+	scholar -> aprentice -> mage -> adept -> expert -> master -> arch...
+
+Letters on mapa:
+	G --> goblin 
+	R --> Rat
+	@ --> player
+
+	00@??
+	?000R
+	0R0G0
+	??00?
+
+one "*.txt" per monster;

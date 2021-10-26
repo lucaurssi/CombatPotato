@@ -1,0 +1,49 @@
+tower:
+	-100 floors or 'infinity'.
+	-monster level and type changes per floor, making it not like a farming game nor a super hardcore.
+	-treasure chest and 'mimics'.
+	-ramdom events:
+			-shrines
+			-rare monsters
+			-rare loot (maybe 1 per floor)
+			-mimics(git gud)
+	-no windows
+	-feels long, save the progress.
+	-mimics
+
+open world: 
+	-maybe a little too soon.
+	-yep not yet.
+	-maybe never.
+
+based on a story:     <------  story line --<:<:<:
+	-pre made dungeon 
+	-pre know enemy, but not all
+	-need criativity
+	-...
+	-profity
+
+arena: 
+	-?
+
+
+(Cool idea young me)
+you are a monster:
+		-survive & conquer
+		-destroy humans citys
+		-monster citys, guilds, leagues
+		-specials skills
+		-strong humans for challange
+
+
+
+CP:
+	-infinite floor (done, kinda)
+	-normal and veteran monsters. (done, kinda)
+	-yes boss. (done, kinda)
+	-especies of monsters (done, kinda)
+	-events (done, kinda)
+	-stats ? (done, kinda)
+	-gold ?	(nah)
+	-storyline (nah)	
+	
