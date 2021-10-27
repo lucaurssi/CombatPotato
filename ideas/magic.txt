@@ -23,7 +23,9 @@ water
 elements in general
 
 more than just focus on the enemy ?
-
+buff self
+heal
+off combat magic ?
 
 at the beggining only simple stuff like magic punch.
-
+progression paths / level of magic
