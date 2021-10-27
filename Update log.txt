@@ -34,3 +34,6 @@ date : version - info
       
 25/07: 6.6.2 - next level @ position bug fixed.
 	     - Decided as final, at least for now.
+2021;
+
+27/10: 7     - added files to github.
