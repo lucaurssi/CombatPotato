@@ -1,8 +1,7 @@
 Scope:
 
  - turn based combat inspired in final fantasy.
- - diferent concepts of attacks.
- - magic
+ - diferent concepts of attacks (skills, magic).
  - inventory system
  - 2D game
  - semi-random enemies
