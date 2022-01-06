@@ -1,7 +1,11 @@
 Scope:
+ - implement everything from 6th version but with 2d graphics
 
- - turn based combat inspired in final fantasy.
- - diferent concepts of attacks (skills, magic).
- - inventory system
- - 2D game
- - semi-random enemies
+ - turn based combat.
+ - combat menu inspired in final fatasy's.
+ - inventory system (weapon, armor, consumables, ...)
+ - new map, add tiles which represents fixed locations, like a safe zone.
+ - enemies types should change based on floor level.
+ - magic.
+ - atributes.
+ - skills.
